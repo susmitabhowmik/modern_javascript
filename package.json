@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/susmitabhowmik/modern_javascript#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "tinycolor2": "^1.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
   }
 }
